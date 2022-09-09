@@ -5,4 +5,4 @@ Console.WriteLine("Hello, GITHUB");
 
 Console.WriteLine("kia Signerat");
 
-Console.WriteLine("för för signerring ( pusha tillbaka till lokal dok");
+Console.WriteLine("tack för signerring ( pusha tillbaka till lokal dok");
