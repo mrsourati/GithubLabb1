@@ -9,4 +9,6 @@ Console.WriteLine("tack för signerring ( pusha tillbaka till lokal dok");
 
 Console.WriteLine("test");
 
+Console.WriteLine("hejhej");
+
 Console.WriteLine("pushar till git test 2 / 2");
